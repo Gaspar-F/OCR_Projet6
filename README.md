@@ -27,6 +27,8 @@ Configuration :
     Là, nous pourrons choisir de Renommer le switch, de créer de nouveaux Vlans ou de gérer les Interfaces.
 
 Sauvegarde/Restauration:
+![Menu Sauvegarde_Restauration](https://user-images.githubusercontent.com/82892277/121889127-209d7a80-cd19-11eb-99a0-c7626feec00a.png)
+
     Ce menu permettra de faire la sauvegarde du switch et éventuellement une restauration
     
 
