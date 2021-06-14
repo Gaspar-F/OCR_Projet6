@@ -62,9 +62,11 @@ On remarque également un bouton "Enregistrer la configuration actuelle pour le 
 
 #### Restauration
 Tout comme pour la sauvegarde, on choisit le switch.
+
 ![Restauration accueil](https://github.com/Gaspar-F/OCR_Projet6/blob/551b537f50b62b628c260725658882add3c15376/Images/Restauration%20accueil.png)
 
 Les boutons "Sélection fichier Running-Config" et "Sélection du fichier Vlan" permettent d'ouvrir une fenêtre d'explorateur Windows afin de sélectionner le fichier à restaurer. 
+
 ![Selection fichier running-config](https://github.com/Gaspar-F/OCR_Projet6/blob/551b537f50b62b628c260725658882add3c15376/Images/Selection%20fichier%20running-config.png)
 
 Les boutons "Restaure Running-config" et "Restaure Vlan" permettent l'exécution de la restauration.
