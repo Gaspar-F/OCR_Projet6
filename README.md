@@ -17,6 +17,9 @@ Le schéma joint à ce projet explique la situation de départ. ![schéma de con
 
 ## Fonctionnement
     Au lancement de l'application, il faut entrer le nom et le mot de passe de l'utilisateur défini dans la configuration des switchs.Il est également demandé de fournir le mot de passe secret pour accéder au mode privilégié.
+    
+    ![Fenêtre accueil](https://user-images.githubusercontent.com/82892277/121875488-cd233080-cd08-11eb-8ee8-23b554190bab.png)
+
 
 
 # Licence
