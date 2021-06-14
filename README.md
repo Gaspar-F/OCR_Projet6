@@ -54,5 +54,20 @@ Ce menu permettra de faire la sauvegarde du switch et éventuellement une restau
 
 ![Menu Sauvegarde_Restauration](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Menu%20Sauvegarde_Restauration.png)
 
+#### Sauvegarde
+Il suffit de choisir le switch et à l'aide du bouton "Valider", une sauvegarde sur un serveur externe est effectuée. Ici, le serveur est le poste Windows 10 sur lequel on lance le sript. La sauvegarde est automatiquement copiée dans le dossier portant le nom de l'adrresse IP du switch. Cette opération sauvegarde le running-config et le fichier Vlan.dat qui est sur la mémoire flash du switch.
+
+
+On remarque également un bouton "Enregistrer la configuration actuelle pour le prochain démarrage". Celui ci permet de copier le running-config dans le startup-config afin que les modifications en cours soient enregistrées au prochain démarrage du switch.
+
+#### Restauration
+Tout comme pour la sauvegarde, on choisit le switch.
+
+Les boutons "Sélection fichier Running-Config" et "Sélection du fichier Vlan" permettent d'ouvrir une fenêtre d'explorateur Windows afin de sélectionner le fichier à restaurer. 
+
+
+Les boutons "Restaure Running-config" et "Restaure Vlan" permettent l'exécution de la restauration.
+
+
 # Licence
 Ce script est soumis à la licence jointe(GNU General Public License v3.0 )
