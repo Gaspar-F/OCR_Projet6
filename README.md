@@ -17,3 +17,5 @@ Le schéma joint à ce projet explique la situation de départ. ![schéma de con
 
 ## Fonctionnement
 
+# Licence
+Ce script est soumis à la licence jointe(GNU General Public License v3.0 )
