@@ -32,6 +32,20 @@ Ce menu permettra de faire la sauvegarde du switch et éventuellement une restau
 
 ![Menu Sauvegarde_Restauration](https://user-images.githubusercontent.com/82892277/121889127-209d7a80-cd19-11eb-99a0-c7626feec00a.png)
 
+### Renommer
+Cette vue permet de comprendre qu'il faut choisir un switch via son IP ( ici nous en avons 3) et indiquer un nouveau nom. On effectue l'opération avec le bouton "Valider". On peut également effacer cette fenêtre avec le bouton "Quit"
+
+
+
+### Vlan
+Cette vue permet la gestion des Vlans. Comme pour la fenêtre précédente, on choisit un switch. 
+
+
+La validation du choix ouvre un widget treeview qui liste les Vlans existants pour le switch sélectionnés.
+
+Il suffit alors d'indiquer un numéro de Vlan et le nom pour créer un nouveau Vlan dans le switch par l'intermédiaire du bouton "Créer Vlan"
+
+On peut vérifier la création du Vlan en sélectionnant à nouveau le switch.
 
 
 
