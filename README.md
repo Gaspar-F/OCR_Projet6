@@ -56,15 +56,18 @@ Ce menu permettra de faire la sauvegarde du switch et éventuellement une restau
 
 #### Sauvegarde
 Il suffit de choisir le switch et à l'aide du bouton "Valider", une sauvegarde sur un serveur externe est effectuée. Ici, le serveur est le poste Windows 10 sur lequel on lance le sript. La sauvegarde est automatiquement copiée dans le dossier portant le nom de l'adrresse IP du switch. Cette opération sauvegarde le running-config et le fichier Vlan.dat qui est sur la mémoire flash du switch.
-
+![Sauvegarde](https://github.com/Gaspar-F/OCR_Projet6/blob/551b537f50b62b628c260725658882add3c15376/Images/Sauvegarde.png)
 
 On remarque également un bouton "Enregistrer la configuration actuelle pour le prochain démarrage". Celui ci permet de copier le running-config dans le startup-config afin que les modifications en cours soient enregistrées au prochain démarrage du switch.
 
 #### Restauration
 Tout comme pour la sauvegarde, on choisit le switch.
 
+![Restauration accueil](https://github.com/Gaspar-F/OCR_Projet6/blob/551b537f50b62b628c260725658882add3c15376/Images/Restauration%20accueil.png)
+
 Les boutons "Sélection fichier Running-Config" et "Sélection du fichier Vlan" permettent d'ouvrir une fenêtre d'explorateur Windows afin de sélectionner le fichier à restaurer. 
 
+![Selection fichier running-config](https://github.com/Gaspar-F/OCR_Projet6/blob/551b537f50b62b628c260725658882add3c15376/Images/Selection%20fichier%20running-config.png)
 
 Les boutons "Restaure Running-config" et "Restaure Vlan" permettent l'exécution de la restauration.
 
