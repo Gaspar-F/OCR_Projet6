@@ -21,17 +21,18 @@ Au lancement de l'application, il faut entrer le nom et le mot de passe de l'uti
  ![Fenêtre accueil](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Fen%C3%AAtre%20accueil.png)
 
 Différents menus sont accessibles:
-Configuration : 
+
+### Configuration : 
 Là, nous pourrons choisir de Renommer le switch, de créer de nouveaux Vlans ou de gérer les Interfaces.
 
 ![Menu Configuration](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Menu%20Configuration.png)
 
-### Renommer
+#### Renommer
 Cette vue permet de comprendre qu'il faut choisir un switch via son IP ( ici nous en avons 3) et indiquer un nouveau nom. On effectue l'opération avec le bouton "Valider". On peut également effacer cette fenêtre avec le bouton "Quit"
 
 ![Renommer](https://github.com/Gaspar-F/OCR_Projet6/blob/744135750da4c380849b44fb85c3f6da18383cad/Images/Renommer.png)
 
-### Vlan
+#### Vlan
 Cette vue permet la gestion des Vlans. Comme pour la fenêtre précédente, on choisit un switch. 
 ![Vlan_accueil](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Vlan_accueil.png)
 
@@ -42,13 +43,13 @@ Il suffit alors d'indiquer un numéro de Vlan et le nom pour créer un nouveau V
 On peut vérifier la création du Vlan en sélectionnant à nouveau le switch.
 ![Vlan créé](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Vlan%20cr%C3%A9%C3%A9.png)
 
-### Interfaces
+#### Interfaces
 Tout comme pour le menu Vlan, on choisit le switch sur lequel on veut travailler. Ce choix permet d'ouvrir le treeview qui liste les Vlans du switch et fait apparaitre une combobox qui permet de lister les interfaces du switch.
 
 On affecte ensuite l'interface au Vlan à l'aide du bouton "Affecter Interface au Vlan"
 
 
-Sauvegarde/Restauration:
+### Sauvegarde/Restauration:
 Ce menu permettra de faire la sauvegarde du switch et éventuellement une restauration.
 
 ![Menu Sauvegarde_Restauration](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Menu%20Sauvegarde_Restauration.png)
