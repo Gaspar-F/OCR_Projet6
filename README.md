@@ -43,10 +43,12 @@ Cette vue permet la gestion des Vlans. Comme pour la fenêtre précédente, on c
 
 La validation du choix ouvre un widget treeview qui liste les Vlans existants pour le switch sélectionnés.
 
+
 Il suffit alors d'indiquer un numéro de Vlan et le nom pour créer un nouveau Vlan dans le switch par l'intermédiaire du bouton "Créer Vlan"
 
 On peut vérifier la création du Vlan en sélectionnant à nouveau le switch.
 
+![Vlan créé](https://user-images.githubusercontent.com/82892277/121891501-cce06080-cd1b-11eb-93ee-2921146c295e.png)
 
 
 # Licence
