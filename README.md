@@ -48,6 +48,7 @@ Il suffit alors d'indiquer un numéro de Vlan et le nom pour créer un nouveau V
 On peut vérifier la création du Vlan en sélectionnant à nouveau le switch.
 ![Vlan créé](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Vlan%20cr%C3%A9%C3%A9.png)
 
+![Vlan créé](Images\Vlan créé.png)
 
 # Licence
 Ce script est soumis à la licence jointe(GNU General Public License v3.0 )
