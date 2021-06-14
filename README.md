@@ -35,7 +35,7 @@ Ce menu permettra de faire la sauvegarde du switch et éventuellement une restau
 ### Renommer
 Cette vue permet de comprendre qu'il faut choisir un switch via son IP ( ici nous en avons 3) et indiquer un nouveau nom. On effectue l'opération avec le bouton "Valider". On peut également effacer cette fenêtre avec le bouton "Quit"
 
-https://github.com/Gaspar-F/OCR_Projet6/blob/744135750da4c380849b44fb85c3f6da18383cad/Images/Renommer.png
+![Renommer](https://github.com/Gaspar-F/OCR_Projet6/blob/744135750da4c380849b44fb85c3f6da18383cad/Images/Renommer.png)
 
 ### Vlan
 Cette vue permet la gestion des Vlans. Comme pour la fenêtre précédente, on choisit un switch. 
