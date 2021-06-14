@@ -26,12 +26,6 @@ Là, nous pourrons choisir de Renommer le switch, de créer de nouveaux Vlans ou
 
 ![Menu Configuration](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Menu%20Configuration.png)
 
-
-Sauvegarde/Restauration:
-Ce menu permettra de faire la sauvegarde du switch et éventuellement une restauration.
-
-![Menu Sauvegarde_Restauration](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Menu%20Sauvegarde_Restauration.png)
-
 ### Renommer
 Cette vue permet de comprendre qu'il faut choisir un switch via son IP ( ici nous en avons 3) et indiquer un nouveau nom. On effectue l'opération avec le bouton "Valider". On peut également effacer cette fenêtre avec le bouton "Quit"
 
@@ -48,7 +42,16 @@ Il suffit alors d'indiquer un numéro de Vlan et le nom pour créer un nouveau V
 On peut vérifier la création du Vlan en sélectionnant à nouveau le switch.
 ![Vlan créé](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Vlan%20cr%C3%A9%C3%A9.png)
 
-![Vlan créé](Images\Vlan créé.png)
+### Interfaces
+Tout comme pour le menu Vlan, on choisit le switch sur lequel on veut travailler. Ce choix permet d'ouvrir le treeview qui liste les Vlans du switch et fait apparaitre une combobox qui permet de lister les interfaces du switch.
+
+On affecte ensuite l'interface au Vlan à l'aide du bouton "Affecter Interface au Vlan"
+
+
+Sauvegarde/Restauration:
+Ce menu permettra de faire la sauvegarde du switch et éventuellement une restauration.
+
+![Menu Sauvegarde_Restauration](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Menu%20Sauvegarde_Restauration.png)
 
 # Licence
 Ce script est soumis à la licence jointe(GNU General Public License v3.0 )
