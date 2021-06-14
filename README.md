@@ -1,6 +1,8 @@
 # OCR_Projet6
- Projet6 automatisation de tâches
+# Objet :
+automatisation de tâches : Configuration switchs
 
+## Présentation
 Ce script a pour objectif de permettre l'automatisation de la configuration de switchs Cisco via l'envoi de commande en ssh. 
 Le script a été validé avec des switchs Cisco 3725. L'environnement d'exécution du switch doit être réalisé sur un poste disposant du système d'exploitation windows 10.
 
