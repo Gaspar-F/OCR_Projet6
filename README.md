@@ -39,7 +39,7 @@ Cette vue permet de comprendre qu'il faut choisir un switch via son IP ( ici nou
 
 ### Vlan
 Cette vue permet la gestion des Vlans. Comme pour la fenêtre précédente, on choisit un switch. 
-
+![Vlan_accueil](https://user-images.githubusercontent.com/82892277/121891487-c81bac80-cd1b-11eb-9820-d7a21755f44d.png)
 
 La validation du choix ouvre un widget treeview qui liste les Vlans existants pour le switch sélectionnés.
 Il suffit alors d'indiquer un numéro de Vlan et le nom pour créer un nouveau Vlan dans le switch par l'intermédiaire du bouton "Créer Vlan"
