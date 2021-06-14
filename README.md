@@ -16,9 +16,7 @@ Les switchs sont au préalables configurés manuellement afin que les mots de pa
 Le schéma joint à ce projet explique la situation de départ. ![schéma de connexion des appareils](https://user-images.githubusercontent.com/82892277/121871526-82071e80-cd04-11eb-92c1-64c478aee1d8.png)
 
 ## Fonctionnement
-    Au lancement de l'application, il faut entrer le nom et le mot de passe de l'utilisateur défini dans la configuration des switchs.Il est également demandé de fournir le mot de passe secret pour accéder au mode privilégié.![Fenêtre accueil](https://user-images.githubusercontent.com/82892277/121875488-cd233080-cd08-11eb-8ee8-23b554190bab.png)
-
-
+    Au lancement de l'application, il faut entrer le nom et le mot de passe de l'utilisateur défini dans la configuration des switchs.Il est également demandé de fournir le mot de passe secret pour accéder au mode privilégié. 
 
 # Licence
 Ce script est soumis à la licence jointe(GNU General Public License v3.0 )
