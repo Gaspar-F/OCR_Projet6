@@ -13,7 +13,7 @@ La communication ssh vers les switchs est basée sur la libriarie Python multive
 
 Les switchs sont au préalables configurés manuellement afin que les mots de passes soient cryptés et un Vlan 99 pour l'administration est configuré sur diverses interfaces. 
 
-Le schéma joint à ce projet explique la situation de départ. ![schéma de connexion des appareils](https://github.com/Gaspar-F/OCR_Projet6/blob/759195a4af8a79afa84161170dc3afe735853fcc/Images/sch%C3%A9ma%20de%20connexion%20des%20appareils.png)
+Le schéma joint à ce projet explique la situation de départ. ![schéma de connexion des appareils](https://github.com/Gaspar-F/OCR_Projet6/blob/7168ebc10ab4d83fbcd72bcf80394b88ec5280ff/Images/sch%C3%A9ma%20de%20connexion%20des%20appareils.png)
 
 ## Fonctionnement
 Au lancement de l'application, il faut entrer le nom et le mot de passe de l'utilisateur défini dans la configuration des switchs.Il est également demandé de fournir le mot de passe secret pour accéder au mode privilégié.
