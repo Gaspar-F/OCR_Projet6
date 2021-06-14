@@ -20,6 +20,13 @@ Au lancement de l'application, il faut entrer le nom et le mot de passe de l'uti
 
  ![Fenêtre accueil](https://user-images.githubusercontent.com/82892277/121875488-cd233080-cd08-11eb-8ee8-23b554190bab.png)
 
+Différents menus sont accessibles:
+Configuration : 
+    Là, nous pourrons choisir de Renommer le switch, de créer de nouveaux Vlans ou de gérer les Interfaces.
+
+Sauvegarde/Restauration:
+    Ce menu permettra de faire la sauvegarde du switch et éventuellement une restauration
+    
 
 # Licence
 Ce script est soumis à la licence jointe(GNU General Public License v3.0 )
