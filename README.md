@@ -13,4 +13,4 @@ Les switchs sont au préalables configurés manuellement afin que les mots de pa
 
 Le schéma joint à ce projet explique la situation de départ.
 
-L'utilisation de ce script est soumis à la licence jointe.
+L'utilisation de ce script est soumis à la licence jointe (GNU General Public License v3.0).
