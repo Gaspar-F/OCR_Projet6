@@ -18,19 +18,19 @@ Le schéma joint à ce projet explique la situation de départ. ![schéma de con
 ## Fonctionnement
 Au lancement de l'application, il faut entrer le nom et le mot de passe de l'utilisateur défini dans la configuration des switchs.Il est également demandé de fournir le mot de passe secret pour accéder au mode privilégié.
 
- ![Fenêtre accueil](https://user-images.githubusercontent.com/82892277/121875488-cd233080-cd08-11eb-8ee8-23b554190bab.png)
+ ![Fenêtre accueil](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Fen%C3%AAtre%20accueil.png)
 
 Différents menus sont accessibles:
 Configuration : 
 Là, nous pourrons choisir de Renommer le switch, de créer de nouveaux Vlans ou de gérer les Interfaces.
 
-![Menu Configuration](https://user-images.githubusercontent.com/82892277/121889121-1da28a00-cd19-11eb-8d39-9d7b222b1ec9.png)
+![Menu Configuration](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Menu%20Configuration.png)
 
 
 Sauvegarde/Restauration:
 Ce menu permettra de faire la sauvegarde du switch et éventuellement une restauration.
 
-![Menu Sauvegarde_Restauration](https://user-images.githubusercontent.com/82892277/121889127-209d7a80-cd19-11eb-99a0-c7626feec00a.png)
+![Menu Sauvegarde_Restauration](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Menu%20Sauvegarde_Restauration.png)
 
 ### Renommer
 Cette vue permet de comprendre qu'il faut choisir un switch via son IP ( ici nous en avons 3) et indiquer un nouveau nom. On effectue l'opération avec le bouton "Valider". On peut également effacer cette fenêtre avec le bouton "Quit"
@@ -39,14 +39,14 @@ Cette vue permet de comprendre qu'il faut choisir un switch via son IP ( ici nou
 
 ### Vlan
 Cette vue permet la gestion des Vlans. Comme pour la fenêtre précédente, on choisit un switch. 
-![Vlan_accueil](https://user-images.githubusercontent.com/82892277/121891487-c81bac80-cd1b-11eb-9820-d7a21755f44d.png)
+![Vlan_accueil](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Vlan_accueil.png)
 
 La validation du choix ouvre un widget treeview qui liste les Vlans existants pour le switch sélectionnés.
 Il suffit alors d'indiquer un numéro de Vlan et le nom pour créer un nouveau Vlan dans le switch par l'intermédiaire du bouton "Créer Vlan"
-![Vlan](https://user-images.githubusercontent.com/82892277/121891492-c9e57000-cd1b-11eb-90c0-720448b89a0d.png)
+![Vlan](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Vlan.png)
 
 On peut vérifier la création du Vlan en sélectionnant à nouveau le switch.
-![Vlan créé](https://user-images.githubusercontent.com/82892277/121891501-cce06080-cd1b-11eb-93ee-2921146c295e.png)
+![Vlan créé](https://github.com/Gaspar-F/OCR_Projet6/blob/628589a409c0133c420df154063fb94c4c54fd4e/Images/Vlan%20cr%C3%A9%C3%A9.png)
 
 
 # Licence
