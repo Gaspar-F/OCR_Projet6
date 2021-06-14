@@ -22,6 +22,8 @@ Au lancement de l'application, il faut entrer le nom et le mot de passe de l'uti
 
 Différents menus sont accessibles:
 Configuration : 
+
+![Menu Configuration](https://user-images.githubusercontent.com/82892277/121889121-1da28a00-cd19-11eb-8d39-9d7b222b1ec9.png)
     Là, nous pourrons choisir de Renommer le switch, de créer de nouveaux Vlans ou de gérer les Interfaces.
 
 Sauvegarde/Restauration:
